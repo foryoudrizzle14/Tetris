@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "lumanosimo";
+  src: url("./font/Lumanosimo-Regular.ttf") format("ttf");
+}
